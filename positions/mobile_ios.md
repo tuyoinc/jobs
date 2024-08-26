@@ -33,3 +33,6 @@ We’re on the lookout for a versatile **Mobile Engineer (iOS)** who thrives in 
 - **Tech Enthusiast:** You’re well-versed in software engineering best practices and excited to learn new technologies.
 - **Team Player:** Collaboration is second nature to you, but you’re also comfortable working independently when needed.
 - **Proactive & Adaptable:** You’re quick to learn and thrive in fast-paced, ever-changing environments.
+
+# Apply
+Drop us a short introduction about yourself and/or your resume at [hiring@tuyo.com](mailto:hiring@tuyo.com).
