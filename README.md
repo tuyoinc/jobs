@@ -1,5 +1,3 @@
-<img src="assets/logo.png" width="200" height="200">
-
 # Tuyo Careers
 
 *Tuyo is the all-in-one sovereign money platform*
@@ -11,6 +9,6 @@ We are building the next generation crypto app that will accelerate widespread a
 ## Open Positions
 
 ### Product / Engineering
-[Software Engineer](software_eng.md)
+[Software Engineer](positions/software_eng.md)
 
-[Mobile Engineer (iOS)](mobile_ios.md)
+[Mobile Engineer (iOS)](positions/mobile_ios.md)
