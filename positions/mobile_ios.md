@@ -34,5 +34,10 @@ We’re on the lookout for a versatile **Mobile Engineer (iOS)** who thrives in 
 - **Team Player:** Collaboration is second nature to you, but you’re also comfortable working independently when needed.
 - **Proactive & Adaptable:** You’re quick to learn and thrive in fast-paced, ever-changing environments.
 
+### Conditions
+- **Location:** Onsite in Madrid, Spain
+- **Salary:** Market rate (60.000€ - 80.000€)
+- **Equity:** 0.5% - 1%
+
 # Apply
 Drop us a short introduction about yourself and/or your resume at [hiring@tuyo.com](mailto:hiring@tuyo.com).
